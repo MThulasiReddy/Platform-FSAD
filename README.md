@@ -2,14 +2,14 @@ SECTION 7
 
 Lab Experiments Instruction
 
-Install NodeJS
+1)Install NodeJS
 
-Install VS Code
+2)Install VS Code
 
-Setup SpringBoot tool
+3)Setup SpringBoot tool
 
-Install Postman
+4)Install Postman
 
-Install MySQL Server
+5)Install MySQL Server
 
-Install MySQL Workbench
+6)Install MySQL Workbench
