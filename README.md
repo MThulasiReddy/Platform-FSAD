@@ -1,3 +1,5 @@
+SECTION 7
+
 Lab Experiments Instruction
 
 Install NodeJS
